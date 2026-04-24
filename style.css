@@ -67,15 +67,15 @@ body{
 .kiri{
      width: 70%
      float: left;
-     margin-auto;
+     margin:auto;
      background: #fff;
      height: 420px
 }
 
 .kanan{
-width: 30%
+    width: 30%
      float: left;
-     margin-auto;
+     margin:auto;
      background: #fff;
      height: 420px
 }
