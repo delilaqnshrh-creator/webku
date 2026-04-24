@@ -1,5 +1,5 @@
 body{
-    background:#f3f3f3;
+    background:#f4f8fb;
     color:#333;
     width:100%;
     font-family:sans-serif;
@@ -11,7 +11,7 @@ body{
     margin:auto;
     height:120px;
     line-height:120px;
-    background:#417aa8;
+    background:#3a7ca5;
     color:#fff;
 }
 
@@ -74,7 +74,7 @@ body {
 }
 
 .border{
-    border:2px solid #ACB194;
+    border:2px solid #5aa9e6;
     margin-top:1pc;
     padding-bottom:1pc;
     padding-left:2pc;
@@ -106,7 +106,7 @@ body {
     margin:auto;
     height:40px;
     line-height:40px;
-    background:#ACB194;
+    background:#5aa9e6;
     color:#fff;
     margin-bottom: 1pc;
     }
